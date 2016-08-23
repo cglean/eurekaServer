@@ -1,1 +1,1 @@
-# eurekaServer
+# service-registry
